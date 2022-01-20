@@ -1,0 +1,40 @@
+body{
+    font-family: Verdana, Arial, sans-serif;
+    background-color: #dfd264;
+}
+
+.bg-light{
+    background-color: #49f743!important;
+}
+
+.navbar-brand{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1.5rem;
+    color: #020202!important;
+}
+
+.nav-link{
+    color: #f11616!important;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.nav-link:hover{
+    background-color: #5eb1f5;
+}
+
+.my-info{
+    padding: 2rem 5rem;
+}
+
+.btn-info{
+    padding: 1rem 1.2rem;
+    background-color: rgb(78, 153, 223)!important;
+    color: #fff!important;
+    margin-left: 5px;
+    padding: 0.75rem;
+    transition: all 0.3s;
+}
+
+.btn-info:hover{
+    background-color: rgb(67, 83, 230)!important;
+}
